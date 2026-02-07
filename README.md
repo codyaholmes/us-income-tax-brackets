@@ -1,6 +1,6 @@
-# Historial U.S. Federal Income Tax Rates and Brackets with Max and Min Levels: 1913-2021
+# Historical U.S. Federal Income Tax Rates and Brackets with Max and Min Levels: 1913-2021
 
-In some light political discourse with a friend, I realized that there was not many good sources for cleaned and tidy data to analyze historical marginal tax rates and brackets. This dataset is posted to fill that void.
+In some light political discourse with a friend, I realized that there was not that many good sources for cleaned and tidy data to analyze historical marginal tax rates and brackets. This dataset is posted to fill that void.
 
 ## Credit
 Data is sourced from the Tax Foundation's [website](https://taxfoundation.org/historical-income-tax-rates-brackets/), titled *Historical U.S. Federal Individual Income Tax Rates & Brackets, 1862-2021*. Go support their [work](https://taxfoundation.org/historical-income-tax-rates-brackets/#donate)!
